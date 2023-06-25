@@ -1,0 +1,9 @@
+[
+    {
+        "name": "NodeAPI",
+        "path": "./node-app.js",
+        "runtime": "node",
+        "port": 8080,
+        "healthcheckURL": "/healthcheck"
+    }
+]
